@@ -6,7 +6,7 @@ Steps to create this.
 1. Login to Jamf Pro
 2. Go to Global setting (Gear icon top rigth)
 3. Click SMTP server either configure a real SMTP or put in fake values to enable the Enrollment Invitations section in Jamf Pro.
-
+<br>
 <img
   src="SMTP%20Server%20Icon.png"
   alt="SMTP_Icon"
@@ -25,7 +25,7 @@ Steps to create this.
   alt="EIL"
   title="Optional title"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
-  
+  <br>
 5. Click new --> type in a real email or fake one in my case I like to user app@none.com
 6. Click next --> leave this section alone --> next
 7. Pick the expiration date --> and check "Allow multiple uses" --> next
