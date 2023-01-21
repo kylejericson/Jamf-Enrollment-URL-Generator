@@ -18,8 +18,9 @@ Steps to create this.
   alt="SMTP_Settings"
   title="Optional title"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
-  
+  <br>
 4. Click Enrollment Invitations under Computers --> Enrollment Invitations
+<br>
 <img
   src="Enrollment%20Invitations%20Location.png"
   alt="EIL"
@@ -31,11 +32,13 @@ Steps to create this.
 7. Pick the expiration date --> and check "Allow multiple uses" --> next
 8. (Note if you used fake values it will say it failed which is fine) Click Done
 9. Now under Enrollment Invitations click the one you just created.
-10. <img
+<br>
+<img
   src="Enrollment%20Invitations.png"
   alt="EILS"
   title="Optional title"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
+  <br>
 11. Copy the Invitation ID and copy your Jamf Pro url like https://myorg.jamfcloud.com
 12. Open this app Jamf Enrollment URL Generator.app and paste in the values.
 13. At the end of the app if will copy the url to your macOS clipboard.
