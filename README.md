@@ -41,5 +41,22 @@ Steps to create this.
   <br>
 11. Copy the Invitation ID and copy your Jamf Pro url like https://myorg.jamfcloud.com   <br>
 12. Open this app Jamf Enrollment URL Generator.app and paste in the values.   <br>
-13. At the end of the app if will copy the url to your macOS clipboard.   <br>
-14. Done   <br>
+<br>
+<img
+  src="P1.png"
+  alt="P1"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+  <img
+  src="P2.png"
+  alt="P2"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+  <img
+  src="P3.png"
+  alt="P3"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+  <br>
+14. At the end of the app if will copy the url to your macOS clipboard.   <br>
+15. Done   <br>
