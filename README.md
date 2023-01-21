@@ -6,7 +6,12 @@ Steps to create this.
 1. Login to Jamf Pro
 2. Go to Global setting (Gear icon top rigth)
 3. Click SMTP server either configure a real SMTP or put in fake values to enable the Enrollment Invitations section in Jamf Pro.
-[Screenshot](SMTP%20Server%20Icon.png)
+
+<img
+  src="SMTP%20Server%20Icon.png"
+  alt="SMTP_Icon"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
 7. Click Enrollment Invitations under Computers --> Enrollment Invitations
 8. Click new --> type in a real email or fake one in my case I like to user app@none.com
 9. Click next --> leave this section alone --> next
